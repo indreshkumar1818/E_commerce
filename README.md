@@ -1,2 +1,2 @@
-# E_commerce
+# E-commerce
 this is the E commerce website using html css and js
